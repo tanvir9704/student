@@ -1,0 +1,48 @@
+
+
+table,td{text-align:center;}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: lightskyblue;
+  margin-top: 30px;
+  
+}
+
+
+
+@media screen 
+  and (min-device-width: 300px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+
+
+
+}
+
+
+//width="660" height="200"
+
+@media screen 
+  and (min-device-width: 640px) 
+  and (max-device-width: 824px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+
+
+}
+
+
+
+@media screen 
+  and (min-device-width: 825px) 
+  and (max-device-width: 1624px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+
+}
